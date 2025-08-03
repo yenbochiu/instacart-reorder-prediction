@@ -1,6 +1,6 @@
 # Instacart Reorder Prediction
 
-This project investigates **what makes a customer repurchase a product** using the [Instacart Online Grocery Shopping Dataset](https://www.kaggle.com/datasets/instacart/instacart-market-basket-analysis).
+This project investigates **what makes a customer repurchase a product** using the [Instacart Online Grocery Shopping Dataset](https://www.kaggle.com/datasets/psparks/instacart-market-basket-analysis).
 
 The project serves as a portfolio piece and a personal learning journey to deepen my understanding of **consumer behaviour, feature engineering, and predictive modelling**, while also giving me the opportunity to practise with **SQL and Tableau**.
 
@@ -44,7 +44,7 @@ instacart-reorder-prediction/
 The data is not uploaded due to size limits and policy.  
 To reproduce the project:
 
-1. Download the dataset from [Kaggle](https://www.kaggle.com/datasets/instacart/instacart-market-basket-analysis)
+1. Download the dataset from [Kaggle](https://www.kaggle.com/datasets/psparks/instacart-market-basket-analysis)
 2. Place all CSV files in the `data/` folder
 3. You’re good to go!
 
