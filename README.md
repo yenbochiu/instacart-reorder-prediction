@@ -52,10 +52,10 @@ To reproduce the project:
 
 ## Author
 
-👤 Yen-Bo Chiu  
-📧 [yenbochiu@gmail.com]  
-🎓 MSc Business Analytics, University of Edinburgh/ BA Economics, National Taiwan University  
-🌍 Currently based in [Edinburgh, Scotland/ Taiepi, Taiwan]
+Yen-Bo Chiu  
+contact me: yenbochiu@gmail.com 
+Education: MSc Business Analytics, University of Edinburgh/ BA Economics, National Taiwan University  
+I'm currently based in Edinburgh, Scotland/ Taiepi, Taiwan
 
 ---
 
