@@ -10,7 +10,7 @@ To replicate the analysis, please follow the steps below:
 ## Step-by-step Instructions
 
 1. Go to the Kaggle dataset page:  
-   👉 [https://www.kaggle.com/datasets/instacart/instacart-market-basket-analysis](https://www.kaggle.com/datasets/instacart/instacart-market-basket-analysis)
+   👉 [https://www.kaggle.com/datasets/instacart/instacart-market-basket-analysis](https://www.kaggle.com/datasets/psparks/instacart-market-basket-analysis)
 
 2. Download the dataset (you may need to log into your Kaggle account)
 
