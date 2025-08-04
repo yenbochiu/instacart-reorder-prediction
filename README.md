@@ -72,6 +72,6 @@ To reproduce the project:
 Name: Yen-Bo Chiu    
 Contact: yenbochiu@gmail.com    
 Edu: MSc Business Analytics, University of Edinburgh/ BA Economics, National Taiwan University  
-Loc: I'm currently based in Edinburgh, Scotland/ Taiepi, Taiwan
+Loc: I'm currently based in Edinburgh, Scotland/ Taipei, Taiwan
 
 
