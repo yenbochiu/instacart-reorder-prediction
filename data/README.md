@@ -23,16 +23,7 @@ To replicate the analysis, please follow the steps below:
    - `products.csv`
 
 4. Your folder structure should now look like:
-
-instacart-reorder-prediction/
-├── data/
-│ ├── aisles.csv
-│ ├── departments.csv
-│ ├── order_products__prior.csv
-│ ├── order_products__train.csv
-│ ├── orders.csv
-│ └── products.csv
-
+<img width="255" height="162" alt="image" src="https://github.com/user-attachments/assets/53acd5d7-d365-4567-9fb2-fb05ba6e6334" />
 
 ---
 
