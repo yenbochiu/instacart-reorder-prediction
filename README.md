@@ -15,7 +15,10 @@ The project serves as a portfolio piece and a personal learning journey to deepe
 ---
 
 ## Project Structure
-<img width="410" height="224" alt="image" src="https://github.com/user-attachments/assets/305d1f11-378b-4709-a903-5ef3e7ddd874" />
+- **01_initial_eda.ipynb**: exploratory analysis
+- **02_feature_engineering.ipynb**: new features for user/product/order
+- **03_model_training_and_insights.ipynb**: LightGBM classifier with 96% AUC, key drivers of reordering behaviour
+- **04_dashboard**: SQL & Tableau visualisations
 
 ---
 
@@ -40,17 +43,35 @@ To reproduce the project:
 
 ---
 
-## Author
+## Key Results
 
-Yen-Bo Chiu    
-📪 yenbochiu@gmail.com    
-🎓 MSc Business Analytics, University of Edinburgh/ BA Economics, National Taiwan University  
-📌 I'm currently based in Edinburgh, Scotland/ Taiepi, Taiwan
+- Top features: up_order_count, order_number, total_orders
+- Departments with high reorder rate: dairy eggs, beverages, produce
+- Users tend to reorder items added early in their cart
 
 ---
 
-## Coming Soon
+## Business Implications
 
-- Model evaluation & comparison (XGBoost, Logistic Regression)
-- Tableau dashboard for reorder insights
-- Deployment ideas for recommendation system
+- Promote repeat items early in UI to triger high-reorder products being added to the carts
+- Add a "smart-order" button for higher reorder consistency customers for enhancing their habit
+- Personalised recommendations based on past frequency, especially for those with lower reorder consistency
+- Daily grocery is more likely to be ordered than personal care, pantry, or household stuff
+
+---
+
+## Future Work
+- Collaborative filtering / embeddings
+- Time-based features (seasonality)
+- Deployment as API or dashboard
+
+---
+
+## Author
+
+Name: Yen-Bo Chiu    
+Contact: yenbochiu@gmail.com    
+Edu: MSc Business Analytics, University of Edinburgh/ BA Economics, National Taiwan University  
+Loc: I'm currently based in Edinburgh, Scotland/ Taiepi, Taiwan
+
+
