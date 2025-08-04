@@ -15,17 +15,7 @@ The project serves as a portfolio piece and a personal learning journey to deepe
 ---
 
 ## Project Structure
-instacart-reorder-prediction/
-├── notebooks/
-│ ├── 01_initial_eda.ipynb
-│ ├── 02_feature_engineering.ipynb
-│ ├── 03_model_training.ipynb
-│ └── 04_dashboard_design.ipynb
-├── data/
-│ └── README.md (Instructions to access Kaggle dataset)
-├── output/
-│ └── figures/ (plots and charts)
-├── README.md
+<img width="410" height="224" alt="image" src="https://github.com/user-attachments/assets/305d1f11-378b-4709-a903-5ef3e7ddd874" />
 
 ---
 
