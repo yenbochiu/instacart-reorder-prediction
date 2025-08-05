@@ -19,8 +19,8 @@ The project serves as a portfolio piece and a personal learning journey to deepe
 - **02_feature_engineering.ipynb**: new features for user/product/order
 - **03_model_training_and_insights.ipynb**: LightGBM classifier with 96% AUC, key drivers of reordering behaviour
 - **04_dashboard**: SQL & Tableau visualisations [View Dashboard on Tableau](https://public.tableau.com/views/ReorderAnalysis/Dashboard5?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)   
-  SAMPLE DASHBOARD SCREENSHOTS:   
- ![Peak Time](Peak%20Time.png)
+  SAMPLE DASHBOARD SCREENSHOT:     
+ ![Dashboard - Peak Time](https://raw.githubusercontent.com/yenbochiu/instacart-reorder-prediction/refs/heads/images/images/PeakTime.png)
 
 ---
 
