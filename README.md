@@ -20,7 +20,7 @@ The project serves as a portfolio piece and a personal learning journey to deepe
 - **03_model_training_and_insights.ipynb**: LightGBM classifier with 96% AUC, key drivers of reordering behaviour
 - **04_dashboard**: SQL & Tableau visualisations [View Dashboard on Tableau](https://public.tableau.com/views/ReorderAnalysis/Dashboard5?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)   
   SAMPLE DASHBOARD SCREENSHOTS:   
-  ![PEAK TIME ANALYSIS]([instacart-reorder-prediction/images/Peak Time.png](https://github.com/yenbochiu/instacart-reorder-prediction/blob/7e1e80fc9b64a46ae8b36972965028ca32b9bde1/Peak%20Time.png))
+![Peak Time](Peak%20Time.png)
 
 ---
 
